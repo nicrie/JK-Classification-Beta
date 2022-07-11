@@ -46,6 +46,10 @@ The current code has been has been tested for the following datasets:
 
 The method can be applied for other netcdf files with latitude coordinates names as "latitude" or "lat", or longitudes coordinates as "longitude" or "lon".  
 ## How to use?
+1. Download the JK_classification.ipynb jupyter notebook file
+2. Download the folder "functions" which contains the neccesary functions to compute the synoptic circulations.
+3. Make sure the jupyter notebook and the folder (not python scripts) are in the same directory.
+4. Open the notebook and follow the instructions. You will need to provide the path to your MSLP dataset.
 
 ## Acknowledging this work
 The code can be used and modified freely without any restriction. If you use it for your own research, I would appreciate if you cite this work as follows:
